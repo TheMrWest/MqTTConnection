@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../EspWeb"
+		},
+		{
+			"name": "EspWebConnection",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
